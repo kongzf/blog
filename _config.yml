@@ -126,3 +126,4 @@ admin:
   username: kongzifan
   password_hash: $2a$10$/Yy.JSLobIkavQbPlHwypek1CcQHJCFMHu8bMIMRozcrO6uy8SK4G
   secret: kzf1484576
+  Command: './admin_script/hexo-generate.sh' # expire: 60*1
