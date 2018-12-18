@@ -5,10 +5,10 @@
 # Site
 title: 孔子凡
 subtitle: 我的个人博客
-description: 随便记记
+description: Talk is cheap, show me the code!
 keywords:
 author: 孔子凡
-language: zh-CN
+language: zh-Hans
 timezone:
 
 # URL
@@ -79,7 +79,7 @@ category_generator:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: raytaylorism
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
