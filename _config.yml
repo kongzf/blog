@@ -121,3 +121,8 @@ jsonContent:
     excerpt: false
     categories: true
     tags: true
+# hexo-admin authentification
+admin:
+  username: kongzifan
+  password_hash: $2a$10$/Yy.JSLobIkavQbPlHwypek1CcQHJCFMHu8bMIMRozcrO6uy8SK4G
+  secret: kzf1484576
