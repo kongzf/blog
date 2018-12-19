@@ -446,19 +446,19 @@ gitment:
 needmoreshare2:
   enable: true
   postbottom:
-    enable: true
+    enable: false
     options:
       iconStyle: box
-      boxForm: horizontal
+      boxForm: vertical
       position: bottomCenter
-      networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
+      networks: Weibo,Wechat,Douban,QQZone
   float:
     enable: true
     options:
       iconStyle: box
       boxForm: horizontal
       position: middleRight
-      networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
+      networks: Weibo,Wechat,Douban,QQZone
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
