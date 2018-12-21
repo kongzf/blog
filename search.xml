@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title>搭建个人博客</title>
+      <link href="/2018/12/21/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2018/12/21/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<a id="more"></a><h3 id="搭建个人博客"><a href="#搭建个人博客" class="headerlink" title="搭建个人博客"></a>搭建个人博客</h3><ul><li><p><a href="#_2">如何搭建免费的个人博客</a></p></li><li><p><a href="#hexo_6">使用hexo框架</a></p></li><li><a href="#gitgithubcoding_7">git版本控制到github和coding</a></li><li><a href="#codingpages_8">使用coding的pages服务</a></li><li><a href="#_9">自定义域名</a></li><li><a href="#travisCI_10">使用travisCI持续集成</a></li><li><a href="#csdnmarkdown_11">使用csdn的在线markdown编辑器方便写文章</a></li><li><a href="#hexo_12">hexo优化</a></li></ul><h1 id="如何搭建免费的个人博客"><a href="#如何搭建免费的个人博客" class="headerlink" title="如何搭建免费的个人博客"></a>如何搭建免费的个人博客</h1><p>平时遇到的问题，以防再次遇到时候不知道忘记怎么解决。</p><h2 id="使用hexo框架"><a href="#使用hexo框架" class="headerlink" title="使用hexo框架"></a>使用hexo框架</h2><h2 id="git版本控制到github和coding"><a href="#git版本控制到github和coding" class="headerlink" title="git版本控制到github和coding"></a>git版本控制到github和coding</h2><h2 id="使用coding的pages服务"><a href="#使用coding的pages服务" class="headerlink" title="使用coding的pages服务"></a>使用coding的pages服务</h2><h2 id="自定义域名"><a href="#自定义域名" class="headerlink" title="自定义域名"></a>自定义域名</h2><h2 id="使用travisCI持续集成"><a href="#使用travisCI持续集成" class="headerlink" title="使用travisCI持续集成"></a>使用travisCI持续集成</h2><h2 id="使用csdn的在线markdown编辑器方便写文章"><a href="#使用csdn的在线markdown编辑器方便写文章" class="headerlink" title="使用csdn的在线markdown编辑器方便写文章"></a>使用csdn的在线markdown编辑器方便写文章</h2><h2 id="hexo优化"><a href="#hexo优化" class="headerlink" title="hexo优化"></a>hexo优化</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>你好，世界</title>
+      <link href="/2018/12/17/hello-world/"/>
+      <url>/2018/12/17/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>欢迎来到<a href="https://hexo.io/" target="_blank" rel="noopener">博客框架</a>! 这是你的第一篇文章。查看<a href="https://hexo.io/docs/" target="_blank" rel="noopener">文档</a> 以获取更多信息。如果您在使用Hexo时遇到任何问题，可以在 <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">故障排除</a> 中找到答案，或者您也可以在 <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>询问我。</p><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一篇文章"><a href="#创建一篇文章" class="headerlink" title="创建一篇文章"></a>创建一篇文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">写作</a></p><h3 id="运行服务器"><a href="#运行服务器" class="headerlink" title="运行服务器"></a>运行服务器</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">服务器</a></p><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">生成</a></p><h3 id="部署到远程站点"><a href="#部署到远程站点" class="headerlink" title="部署到远程站点"></a>部署到远程站点</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">部署</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+  
+  
+    
+    <entry>
+      <title>about</title>
+      <link href="/about/index-1.html"/>
+      <url>/about/index-1.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<p>大家好，我是XXX。欢迎来到我的个人技术博客。</p><p>这里用markdown写下你的简介，就跟平时写md一样就可以了。</p>]]></content>
+      
+    </entry>
+    
+    <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    <entry>
+      <title>读书</title>
+      <link href="/reading/index.html"/>
+      <url>/reading/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+  
+</search>
