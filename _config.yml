@@ -85,7 +85,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://git.dev.tencent.com/kongzifan/blog.git
+  repository: git@git.dev.tencent.com:kongzifan/blog.git
   branch: master
   
 # search
