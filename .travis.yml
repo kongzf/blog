@@ -1,0 +1,39 @@
+language: node_js
+node_js: stable
+# $: Build Lifecycle
+install:
+  - npm install
+
+
+#before_script:
+ # - npm install -g gulp
+
+script:
+  - hexo g
+
+after_script:
+  - cd ./public
+  - git init
+  - git config user.name "kongzifan"
+  - git config user.email "kongzf@126.com"
+  - git commit -m "Update Blog By TravisCI With Build $TRAVIS_BUILD_NUMBER"
+  # Github Pages
+  - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master 
+  # Coding Pages
+  - git push --force --quiet "https://kongzifan:${CO_TOKEN}@${CO_REF}" master:master
+  - git tag v0.0.$TRAVIS_BUILD_NUMBER -a -m "Auto Taged By TravisCI With Build $TRAVIS_BUILD_NUMBER"
+  # Github Pages
+  - git push --quiet "https://${CI_TOKEN}@${GH_REF}" master:master --tags
+  # Coding Pages
+  - git push --quiet "https://kongzifan:${CO_TOKEN}@${CO_REF}" master:master --tags
+
+branches:
+  only:
+    - gh-pages
+
+env:
+ global:
+   # Github Pages
+   - GH_REF: github.com/kongzf/blog.git
+   # Coding Pages
+   - CO_REF: git.dev.tencent.com/kongzifan/blog-dev.git
