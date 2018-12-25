@@ -1,15 +1,11 @@
 ---
 title: Jconsole远程监控
 date: 2018-12-25 09:23:22
-comments: true #是否可评论  
-toc: true #是否显示文章目录  
-categories: "java" #分类  
-tags:  
- - java  
- - 监控 
+tags: 
+categories: 
 ---
 
---------------------------------------------------------------------------------------------------------------------------------------
+<!--more-->
 
 Jconsole远程监控
 ============
@@ -36,6 +32,6 @@ Jconsole远程监控
 ------------
 
 在jdk安装目录下找到jconsole.exe，打开，  
-![jconsole远程连接](https://img-blog.csdnimg.cn/20181224173142314.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMxODY2OTQz,size_16,color_FFFFFF,t_70) 
+![jconsole远程连接](https://img-blog.csdnimg.cn/20181224173142314.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMxODY2OTQz,size_16,color_FFFFFF,t_70)  
 点击连接即可：  
 ![连接成功](https://img-blog.csdnimg.cn/20181224184342186.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMxODY2OTQz,size_16,color_FFFFFF,t_70)
