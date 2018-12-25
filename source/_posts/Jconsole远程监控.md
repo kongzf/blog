@@ -36,6 +36,6 @@ Jconsole远程监控
 ------------
 
 在jdk安装目录下找到jconsole.exe，打开，  
-![jconsole远程连接](https://img-blog.csdnimg.cn/20181224173142314.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMxODY2OTQz,size_16,color_FFFFFF,t_70)  
+![jconsole远程连接](https://camo.githubusercontent.com/727497b88592565ede18ad23768b87bc9cb8e2ca/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f32303138313232343137333134323331342e706e673f782d6f73732d70726f636573733d696d6167652f77617465726d61726b2c747970655f5a6d46755a33706f5a57356e6147567064476b2c736861646f775f31302c746578745f6148523063484d364c7939696247396e4c6d4e7a5a473475626d56304c334678587a4d784f4459324f54517a2c73697a655f31362c636f6c6f725f4646464646462c745f3730,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMxODY2OTQz,size_16,color_FFFFFF,t_70)  
 点击连接即可：  
 ![连接成功](https://img-blog.csdnimg.cn/20181224184342186.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMxODY2OTQz,size_16,color_FFFFFF,t_70)
